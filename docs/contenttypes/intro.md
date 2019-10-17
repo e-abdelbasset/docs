@@ -99,12 +99,12 @@ your new ContentType with some example news items. Sweet!
 <a href="/files/content-example2.png" class="popup"><img src="/files/content-example2.png" width="500"></a>
 
 <p class="note"><strong>Note:</strong>In the following examples we're going to
-tell you to make modifications to the default `base-2016` theme. This is
+tell you to make modifications to the default `base-2018` theme. This is
 actually a very bad practice, and if you're going to make your own theme, make
-a copy of the `base-2016` theme, and do your modifications in the copy.</p>
+a copy of the `base-2018` theme, and do your modifications in the copy.</p>
 
 To add a listing of these news items to the website, edit the twig template
-`theme/base-2016/index.twig`. Most likely, it'll contain an include for a
+`theme/base-2018/index.twig`. Most likely, it'll contain an include for a
 header and some other things. Add the following to the HTML-code, preferably
 somewhere below the header section:
 
